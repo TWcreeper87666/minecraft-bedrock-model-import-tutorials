@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "yb:earth",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/earth"
+			},
+			"geometry": {
+				"default": "geometry.earth"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "3d models",
+		"description": "3d models Resource Pack",
+		"uuid": "d7806a7b-79ff-071b-4151-e7323fd27ccf",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.8.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "3d models",
+			"type": "resources",
+			"uuid": "e4b6f396-7f31-e6ba-ee76-8d4b02a4a2c2",
+			"version": [1, 0, 0]
+		}
+	]
+}

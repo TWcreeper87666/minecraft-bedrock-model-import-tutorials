@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "3d models",
+		"description": "3d models Behavior Pack",
+		"uuid": "5a11f042-5f85-9c30-9534-ec68313ee49c",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.8.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "6fbdfb14-75ef-f5ea-f90f-69049afda6ea",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "d7806a7b-79ff-071b-4151-e7323fd27ccf",
+			"version": [1, 0, 0]
+		}
+	]
+}
